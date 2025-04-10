@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi there, I'm Rebecca Shirievo 👩‍💻✨
 
-<!--
-**cyb3rr31a/cyb3rr31a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate **Computer Science** student at **Jomo Kenyatta University of Agriculture and Technology**, constantly learning and growing in the world of **AI**, **Data Science**, **Machine Learning**, and **Web Development**. I'm excited to explore new technologies and contribute to innovative projects!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a tech enthusiast with a strong focus on **MLOps Engineering**. I thrive on solving complex problems and love working on projects that blend **software engineering** with cutting-edge AI/ML technology. My goal is to use my skills to **make an impact** and contribute to building meaningful solutions that can transform industries.
+
+- 🖥️ **Currently working on**: Real-time sentiment analysis APIs, Drift detection, and automated retraining systems.
+- 🎓 **Education**: Pursuing a **Bachelor of Science in Computer Science** at JKUAT
+- 💡 **I'm passionate about**: **Artificial Intelligence** and **Machine Learning**, **Data Analytics**
+- 🌱 **Currently learning**: Advanced **Machine Learning**, **AI** model optimization, and **Full-Stack Web Development** with **React.js** and **Next.js**.
+
+## 🧠 My Skills
+
+### Programming Languages
+- **Python** (AI/ML, Data Science)
+- **JavaScript (ES6+)** (Frontend Development)
+- **SQL** (MySQL, PostgreSQL)
+
+### Frameworks & Tools
+- **FastAPI** (Web Backend)
+- **React.js & Next.js** (Frontend Development)
+- **TensorFlow & scikit-learn** (Machine Learning)
+- **Tkinter & OpenGL** (GUI Development)
+- **Docker & Git** (Version Control & Containerization)
+
+### Cloud & Deployment
+- **AWS** (EC2, S3, Lambda)
+- **Heroku & DigitalOcean** (App Deployment)
+
+## 🔥 My Projects
+
+### 1. **Real-Time Sentiment Analysis API** 🌍💬
+A RESTful API for **real-time sentiment analysis** and **drift detection**, built to handle dynamic data, adapt to changes, and provide real-time insights with **automated retraining**.
+
+- **Technologies**: FastAPI, Python, ML Models, Docker
+- **GitHub**: [Sentiment Analysis API](https://github.com/your-username/sentiment-api)
+
+### 2. **Hospital Queue Management System** 🏥
+A **queue management system** for hospitals with a **real-time view of patient queues** and **automated notifications**, built with **Tkinter** for the UI.
+
+- **Technologies**: Python, Tkinter, SQLite
+- **GitHub**: [Queue Management System](https://github.com/your-username/hospital-queue)
+
+## 📊 GitHub Stats
+
+![Rebecca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyb3rr31a&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=tokyonight)
+
+## 📣 Let's Connect!
+
+- 📧 **Email**: rebeccashirievo@gmail.com
+- 🌐 **Website**: Coming Soon
+- 💼 **LinkedIn**: 
+- 🐦 **Twitter**: 
+
+Feel free to explore my repositories, open issues, or just say hi! I'm always excited to collaborate and learn from fellow developers and professionals. 🤝
+
+---
+
+**Currently working on improving my:**  
+- **ML Engineering** skills, especially working with **big data** technologies  
+- **Full-Stack Software Development** with **React.js** and **Next.js**
+
+**Fun Fact:** When I'm not coding, you can find me enjoying a good book. 📚
+
+---
+
+🚀 **Thank you for visiting!** Stay tuned for new projects, ideas, and innovations. 😊
