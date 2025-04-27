@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate **Computer Science** student at **Jomo Ke
 
 I'm a tech enthusiast with a strong focus on **MLOps Engineering**. I thrive on solving complex problems and love working on projects that blend **software engineering** with cutting-edge AI/ML technology. My goal is to use my skills to **make an impact** and contribute to building meaningful solutions that can transform industries.
 
-- 🖥️ **Currently working on**: Real-time sentiment analysis APIs, Drift detection, and automated retraining systems.
+- 🖥️ **Currently working on**: Number Ninja and Real Time Sentiment Analysis.
 - 🎓 **Education**: Pursuing a **Bachelor of Science in Computer Science** at JKUAT
 - 💡 **I'm passionate about**: **Artificial Intelligence** and **Machine Learning**, **Data Analytics**
 - 🌱 **Currently learning**: Advanced **Machine Learning**, **AI** model optimization, and **Full-Stack Web Development** with **React.js** and **Next.js**.
@@ -22,7 +22,7 @@ I'm a tech enthusiast with a strong focus on **MLOps Engineering**. I thrive on 
 - **FastAPI** (Web Backend)
 - **React.js & Next.js** (Frontend Development)
 - **TensorFlow & scikit-learn** (Machine Learning)
-- **Tkinter & OpenGL** (GUI Development)
+- **Tkinter** (GUI Development)
 - **Docker & Git** (Version Control & Containerization)
 
 ### Cloud & Deployment
@@ -35,13 +35,7 @@ I'm a tech enthusiast with a strong focus on **MLOps Engineering**. I thrive on 
 A RESTful API for **real-time sentiment analysis** and **drift detection**, built to handle dynamic data, adapt to changes, and provide real-time insights with **automated retraining**.
 
 - **Technologies**: FastAPI, Python, ML Models, Docker
-- **GitHub**: [Sentiment Analysis API](https://github.com/your-username/sentiment-api)
-
-### 2. **Hospital Queue Management System** 🏥
-A **queue management system** for hospitals with a **real-time view of patient queues** and **automated notifications**, built with **Tkinter** for the UI.
-
-- **Technologies**: Python, Tkinter, SQLite
-- **GitHub**: [Queue Management System](https://github.com/your-username/hospital-queue)
+- **GitHub**: [Sentiment Analysis API](https://github.com/your-username/sentiment-
 
 ## 📊 GitHub Stats
 
