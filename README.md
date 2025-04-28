@@ -31,11 +31,12 @@ I'm a tech enthusiast with a strong focus on **MLOps Engineering**. I thrive on 
 
 ## 🔥 My Projects
 
-### 1. **Real-Time Sentiment Analysis API** 🌍💬
-A RESTful API for **real-time sentiment analysis** and **drift detection**, built to handle dynamic data, adapt to changes, and provide real-time insights with **automated retraining**.
+### 1. **Number Ninja** 🌍💬
+## Number Ninja 🎮🧮🥷
+**Number Ninja** is a Python-based number guessing game where users can test their skills and see how fast they can guess the right number! You can check out the repository below, where I’ve used object-oriented programming concepts and created a fun user experience.
 
-- **Technologies**: FastAPI, Python, ML Models, Docker
-- **GitHub**: [Sentiment Analysis API](https://github.com/your-username/sentiment-
+- **Technologies**: Python, Git Docker
+- **GitHub**:🔗 [Number Ninja Repo](https://github.com/{your-username}/number-ninja)
 
 ## 📊 GitHub Stats
 
