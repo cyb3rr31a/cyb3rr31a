@@ -40,6 +40,9 @@ A RESTful API for **real-time sentiment analysis** and **drift detection**, buil
 ## 📊 GitHub Stats
 
 ![Rebecca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyb3rr31a&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=tokyonight)
+
+## 📊 Top Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rr31a&layout=compact&theme=tokyonight)
 
 ## 📣 Let's Connect!
