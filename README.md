@@ -31,8 +31,7 @@ I'm a tech enthusiast with a strong focus on **MLOps Engineering**. I thrive on 
 
 ## 🔥 My Projects
 
-### 1. **Number Ninja** 🌍💬
-## Number Ninja 🎮🧮🥷
+## Number Ninja 🧮🥷
 **Number Ninja** is a Python-based number guessing game where users can test their skills and see how fast they can guess the right number! You can check out the repository below, where I’ve used object-oriented programming concepts and created a fun user experience.
 
 - **Technologies**: Python, Git Docker
