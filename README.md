@@ -1,6 +1,6 @@
 # Hi there, I'm Rebecca Shirievo 👩‍💻✨
 
-Welcome to my GitHub! I'm a passionate **Computer Science** student at **Jomo Kenyatta University of Agriculture and Technology**, constantly learning and growing in the world of **AI**, **Data Science**, **Machine Learning**, and **Web Development**. I'm excited to explore new technologies and contribute to innovative projects!
+Welcome to my GitHub! I'm a passionate **Computer Science** student at **Jomo Kenyatta University of Agriculture and Technology**, constantly learning and growing in the world of **AI**, **Data Science**, and **Web Development**. I'm excited to explore new technologies and contribute to innovative projects!
 
 ## 🚀 About Me
 
