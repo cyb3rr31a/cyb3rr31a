@@ -49,7 +49,7 @@ I'm a tech enthusiast with a strong focus on **MLOps Engineering**. I thrive on 
       <img src="https://github-readme-stats.vercel.app/api?username=cyb3rr31a&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyb3rr31ae&theme=dark&hide_border=false" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyb3rr31a&theme=dark&hide_border=false" width="100%"/>
     </td>
   </tr>
   <tr>
