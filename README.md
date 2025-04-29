@@ -1,5 +1,5 @@
 <a href="https://github.com/dancoon/dancoon">
-    <img src="https://komarev.com/ghpvc/?username=Karume-lab&color=red" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=cyb3rr31a&color=red" alt="Profile views" />
 </a>
 
 # Hi there, I'm Rebecca Shirievo 👩‍💻✨
@@ -43,31 +43,28 @@ I'm a tech enthusiast with a strong focus on **MLOps Engineering**. I thrive on 
 
 ## 📊 GitHub Stats
 
-![Rebecca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyb3rr31a&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=tokyonight)
-
-## 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rr31a&layout=compact&theme=tokyonight)
-
 <div style="text-align: center;">
     <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
         <img src="https://github-readme-stats.vercel.app/api?username=cyb3rr31a&show_icons=true&theme=dark&locale=en"
             alt="cyb3rr31a" style="width: 100%; max-width: 400px;" />
-<!--         <a href="https://wakatime.com">
-            <img src="https://wakatime.com/share/@5c126f93-7255-4b25-ac7a-2dfc2c96815f/58ab8166-1fa1-41bb-a26c-d617aa983e1b.png"
-                alt="Wakatime Stats" style="width: 100%; max-width: 400px;" />
-        </a> -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyb3rr31a&theme=dark" alt="cyb3rr31a"
             style="width: 100%; max-width: 400px;" />
     </div>
 </div>
 
+
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rr31a&layout=compact)
+
+
+
 ## 📣 Let's Connect!
 
 - 📧 **Email**: rebeccashirievo@gmail.com
 - 🌐 **Website**: Coming Soon
-- 💼 **LinkedIn**: 
-- 🐦 **Twitter**: 
+- 💼 **LinkedIn**: Rebecca Shirievo
+- 🐦 **Twitter**: @rebeccashirievo
 
 Feel free to explore my repositories, open issues, or just say hi! I'm always excited to collaborate and learn from fellow developers and professionals. 🤝
 
