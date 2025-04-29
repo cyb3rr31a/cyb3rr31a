@@ -39,23 +39,26 @@ I'm a tech enthusiast with a strong focus on **MLOps Engineering**. I thrive on 
 **Number Ninja** is a Python-based number guessing game where users can test their skills and see how fast they can guess the right number! You can check out the repository below, where I’ve used object-oriented programming concepts and created a fun user experience.
 
 - **Technologies**: Python, Git Docker
-- **GitHub**:🔗 [Number Ninja Repo](https://github.com/{your-username}/number-ninja)
+- **GitHub**:🔗 [Number Ninja Repo](https://github.com/cyb3rr31a/number-ninja)
 
 ## 📊 GitHub Stats
 
-<div style="text-align: center;">
-    <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=cyb3rr31a&show_icons=true&theme=dark&locale=en"
-            alt="cyb3rr31a" style="width: 100%; max-width: 400px;" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyb3rr31a&theme=dark" alt="cyb3rr31a"
-            style="width: 100%; max-width: 400px;" />
-    </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=cyb3rr31a&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyb3rr31ae&theme=dark&hide_border=false" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rr31a&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-
-## 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rr31a&layout=compact)
 
 
 
