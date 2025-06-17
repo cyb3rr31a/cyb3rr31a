@@ -41,6 +41,12 @@ I'm a tech enthusiast with a strong focus on **MLOps Engineering**. I thrive on 
 - **Technologies**: Python, Git Docker
 - **GitHub**:🔗 [Number Ninja Repo](https://github.com/cyb3rr31a/number-ninja)
 
+## Taskflow
+**TaskFlow** is a simple yet powerful to-do list application built with **Next.js**, **Tailwind CSS**, and **TypeScript**. It allows users to organize tasks by **priority**, **category**, and **due date**, and supports tracking completed tasks with the option to clear them when needed.
+
+- **Technologies**: Next.js, Tailwind CSS, TypeScript
+- **GitHub**: 🔗 [TaskFlow Repo](https://github.com/cyb3rr31a/to-do)
+
 ## 📊 GitHub Stats
 
 <table>
