@@ -69,7 +69,7 @@ I'm a tech enthusiast with a strong focus on **MLOps Engineering**. I thrive on 
 
 - 📧 **Email**: rebeccashirievo@gmail.com
 - 🌐 **Website**: Coming Soon
-- 💼 **LinkedIn**: Rebecca Shirievo
+- 💼 **LinkedIn**: rebecca-shirievo
 - 🐦 **Twitter**: @rebeccashirievo
 
 Feel free to explore my repositories, open issues, or just say hi! I'm always excited to collaborate and learn from fellow developers and professionals. 🤝
