@@ -80,7 +80,7 @@ Feel free to explore my repositories, open issues, or just say hi! I'm always ex
 - **ML Engineering** skills, especially working with **big data** technologies  
 - **Full-Stack Software Development** with **React.js** and **Next.js**
 
-**Fun Fact:** When I'm not coding, you can find me enjoying a good book. 📚
+**Fun Fact:** When I'm not coding, you can find me watching a good movie. 📚
 
 ---
 
