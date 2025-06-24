@@ -4,7 +4,7 @@
 
 # Hi there, I'm Rebecca Shirievo 👩‍💻✨
 
-Welcome to my GitHub! I'm a passionate **Computer Science** student at **Jomo Kenyatta University of Agriculture and Technology**, constantly learning and growing in the world of **AI**, **Data Science**, **Machine Learning**, and **Web Development**. I'm excited to explore new technologies and contribute to innovative projects!
+Welcome to my GitHub! I'm a passionate **Computer Science** student at **Jomo Kenyatta University of Agriculture and Technology**, constantly learning and growing in the world of **AI**, **Data Science**, **Machine Learning**, and **Software Development**. I'm excited to explore new technologies and contribute to innovative projects!
 
 ## 🚀 About Me
 
@@ -19,19 +19,18 @@ I'm a tech enthusiast with a strong focus on **MLOps Engineering**. I thrive on 
 
 ### Programming Languages
 - **Python** (AI/ML, Data Science)
-- **JavaScript (ES6+)** (Frontend Development)
 - **SQL** (MySQL, PostgreSQL)
 
 ### Frameworks & Tools
 - **FastAPI** (Web Backend)
-- **React.js & Next.js** (Frontend Development)
+- **Streamlit, Flask and Django** (Frontend Development)
 - **TensorFlow & scikit-learn** (Machine Learning)
 - **Tkinter** (GUI Development)
 - **Docker & Git** (Version Control & Containerization)
 
 ### Cloud & Deployment
 - **AWS** (EC2, S3, Lambda)
-- **Heroku & DigitalOcean** (App Deployment)
+- **Vercel, Netflify & Streamlit** (App Deployment)
 
 ## 🔥 My Projects
 
@@ -78,7 +77,7 @@ Feel free to explore my repositories, open issues, or just say hi! I'm always ex
 
 **Currently working on improving my:**  
 - **ML Engineering** skills, especially working with **big data** technologies  
-- **Full-Stack Software Development** with **React.js** and **Next.js**
+- **Full-Stack Software Development**
 
 **Fun Fact:** When I'm not coding, you can find me watching a good movie. 📚
 
