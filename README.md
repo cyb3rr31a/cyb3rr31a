@@ -51,7 +51,7 @@ I'm a tech enthusiast with a strong focus on **MLOps Engineering**. I thrive on 
 <table>
     <tr>
         <td colspan="2">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyb3rr31a&theme=dark&hide_border=false" width="100%"/>
+            <img src="https://streak-stats.demolab.com/?user=cyb3rr31a&theme=dark&hide_border=false" width="100%"/>
         </td>
     </tr>
     <tr>
