@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate **Computer Science** student at **Jomo Ke
 
 I'm a tech enthusiast with a strong focus on **MLOps Engineering**. I thrive on solving complex problems and love working on projects that blend **software engineering** with cutting-edge AI/ML technology. My goal is to use my skills to **make an impact** and contribute to building meaningful solutions that can transform industries.
 
-- 🖥️ **Currently working on**: Number Ninja and Real Time Sentiment Analysis.
+- 🖥️ **Currently working on**: AutomaLL and Joblign.
 - 🎓 **Education**: Pursuing a **Bachelor of Science in Computer Science** at JKUAT
 - 💡 **I'm passionate about**: **Artificial Intelligence** and **Machine Learning**, **Data Analytics**
 - 🌱 **Currently learning**: Advanced **Machine Learning**, **AI** model optimization, and **Full-Stack Web Development** with **React.js** and **Next.js**.
