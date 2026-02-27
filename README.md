@@ -1,53 +1,67 @@
-<a href="https://github.com/dancoon/dancoon">
+<a href="https://github.com/cyb3rr31a">
     <img src="https://komarev.com/ghpvc/?username=cyb3rr31a&color=red" alt="Profile views" />
 </a>
 
 # Hi there, I'm Rebecca Shirievo 👩‍💻✨
-
-Welcome to my GitHub! I'm a passionate **Computer Science** student at **Jomo Kenyatta University of Agriculture and Technology**, constantly learning and growing in the world of **AI**, **Data Science**, **Machine Learning**, and **Software Development**. I'm excited to explore new technologies and contribute to innovative projects!
+Welcome to my GitHub! I'm a passionate **Computer Science** student at **Jomo Kenyatta University of Agriculture and Technology**, constantly learning and growing in the world of **Data Engineering**, **AI**, and **Machine Learning**. I'm excited to explore new technologies and contribute to innovative projects!
 
 ## 🚀 About Me
+I'm a tech enthusiast with a strong focus on **Data Engineering** and **MLOps**. I thrive on solving complex problems and love working on projects that blend **software engineering** with cutting-edge data infrastructure. My goal is to use my skills to **make an impact** and contribute to building meaningful solutions that can transform industries.
 
-I'm a tech enthusiast with a strong focus on **MLOps Engineering**. I thrive on solving complex problems and love working on projects that blend **software engineering** with cutting-edge AI/ML technology. My goal is to use my skills to **make an impact** and contribute to building meaningful solutions that can transform industries.
-
-- 🖥️ **Currently working on**: AutomaLL and Joblign.
+- 🖥️ **Currently working on**: Building a modern data engineering portfolio
 - 🎓 **Education**: Pursuing a **Bachelor of Science in Computer Science** at JKUAT
-- 💡 **I'm passionate about**: **Artificial Intelligence** and **Machine Learning**, **Data Analytics**
-- 🌱 **Currently learning**: Advanced **Machine Learning**, **AI** model optimization, and **Full-Stack Web Development** with **React.js** and **Next.js**.
+- 🏅 **Certified**: ALX Data Analytics
+- 💡 **I'm passionate about**: **Data Engineering**, **Artificial Intelligence**, and **Machine Learning**
+- 🌱 **Currently learning**: Apache Kafka for real-time streaming, advanced dbt techniques, and cloud infrastructure on GCP
 
 ## 🧠 My Skills
 
 ### Programming Languages
-- **Python** (AI/ML, Data Science)
-- **SQL** (MySQL, PostgreSQL)
+- **Python** (Data Engineering, AI/ML, Data Science)
+- **SQL** (BigQuery, SQLite, PostgreSQL)
 
-### Frameworks & Tools
-- **FastAPI** (Web Backend)
-- **Streamlit, Flask and Django** (Frontend Development)
+### Data Engineering
+- **Apache Spark** (Large-scale distributed data processing)
+- **Apache Airflow** (Pipeline orchestration and scheduling)
+- **dbt** (Data transformation and modeling)
+- **pandas** (Data cleaning and manipulation)
+
+### Machine Learning & AI
 - **TensorFlow & scikit-learn** (Machine Learning)
-- **Tkinter** (GUI Development)
-- **Docker & Git** (Version Control & Containerization)
+- **MLOps** (Model deployment and monitoring)
 
-### Cloud & Deployment
-- **AWS** (EC2, S3, Lambda)
-- **Vercel, Netflify & Streamlit** (App Deployment)
+### Cloud & Databases
+- **Google Cloud Platform** (BigQuery, GCP)
+- **AWS** (S3, Lambda)
+- **SQLite & PostgreSQL** (Data storage)
+
+### Tools
+- **Jupyter** (Notebooks and exploratory analysis)
+- **Git & Docker** (Version control and containerization)
+- **WSL2 & Linux** (Development environment)
 
 ## 🔥 My Projects
 
-## Number Ninja 🧮🥷
-**Number Ninja** is a Python-based number guessing game where users can test their skills and see how fast they can guess the right number! You can check out the repository below, where I’ve used object-oriented programming concepts and created a fun user experience.
+## 🚕 NYC Taxi Data Pipeline
+An end-to-end data project showing progression from fundamentals to professional tooling, processing millions of NYC taxi trips.
+- **v1** — cleans ~3M rows with pandas, loads into SQLite, analyzes with SQL, visualizes with matplotlib
+- **v2** — rebuilds the transformation layer with dbt on BigQuery, with automated data tests and auto-generated lineage documentation
+- **Technologies**: Python, pandas, SQL, SQLite, dbt, BigQuery, Jupyter
+- **GitHub**: 🔗 [NYC Taxi Pipeline Repo](https://github.com/cyb3rr31a/nyc-taxi-pipeline)
 
-- **Technologies**: Python, Git Docker
-- **GitHub**:🔗 [Number Ninja Repo](https://github.com/cyb3rr31a/number-ninja)
+## ⚡ NYC Taxi Spark Pipeline
+A PySpark pipeline that processes 6 months of NYC taxi data (~24 million rows) — demonstrating distributed data processing at a scale where pandas would run out of memory.
+- **Technologies**: PySpark, Python, Parquet, WSL2
+- **GitHub**: 🔗 [NYC Taxi Spark Repo](https://github.com/cyb3rr31a/nyc-taxi-spark)
 
-## Taskflow
-**TaskFlow** is a simple yet powerful to-do list application built with **Next.js**, **Tailwind CSS**, and **TypeScript**. It allows users to organize tasks by **priority**, **category**, and **due date**, and supports tracking completed tasks with the option to clear them when needed.
-
-- **Technologies**: Next.js, Tailwind CSS, TypeScript
-- **GitHub**: 🔗 [TaskFlow Repo](https://github.com/cyb3rr31a/to-do)
+## 🌤️ Weather Pipeline
+A daily ETL pipeline showing progression from a simple scheduled script to a production-style orchestrated pipeline.
+- **v1** — pulls weather data from the OpenWeatherMap API, stores in SQLite, scheduled with Windows Task Scheduler
+- **v2** — rebuilt with Apache Airflow for full orchestration, task-level logging, monitoring, and automatic retries
+- **Technologies**: Python, Apache Airflow, SQLite, OpenWeatherMap API
+- **GitHub**: 🔗 [Weather Pipeline Repo](https://github.com/cyb3rr31a/weather-pipeline)
 
 ## 📊 GitHub Stats
-
 <table>
     <tr>
         <td colspan="2">
@@ -57,7 +71,6 @@ I'm a tech enthusiast with a strong focus on **MLOps Engineering**. I thrive on 
 </table>
 
 ## 📣 Let's Connect!
-
 - 📧 **Email**: rebeccashirievo@gmail.com
 - 🌐 **Website**: Coming Soon
 - 💼 **LinkedIn**: rebecca-shirievo
@@ -67,9 +80,10 @@ Feel free to explore my repositories, open issues, or just say hi! I'm always ex
 
 ---
 
-**Currently working on improving my:**  
-- **ML Engineering** skills, especially working with **big data** technologies  
-- **Full-Stack Software Development**
+**Currently working on improving my:**
+- **Data Engineering** skills, especially **Kafka** for real-time streaming pipelines
+- **dbt** advanced techniques — incremental models and macros
+- **Cloud infrastructure** on GCP
 
 **Fun Fact:** When I'm not coding, you can find me watching a good movie. 📚
 
