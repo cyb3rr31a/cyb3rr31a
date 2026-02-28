@@ -62,13 +62,7 @@ A daily ETL pipeline showing progression from a simple scheduled script to a pro
 - **GitHub**: 🔗 [Weather Pipeline Repo](https://github.com/cyb3rr31a/weather-pipeline)
 
 ## 📊 GitHub Stats
-<table>
-    <tr>
-        <td colspan="2">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyb3rr31a&theme=dark&hide_border=false" width="100%"/>
-        </td>
-    </tr>
-</table>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyb3rr31a&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ## 📣 Let's Connect!
 - 📧 **Email**: rebeccashirievo@gmail.com
