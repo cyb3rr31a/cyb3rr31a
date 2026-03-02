@@ -8,7 +8,6 @@ Welcome to my GitHub! I'm a passionate **Computer Science** student at **Jomo Ke
 ## 🚀 About Me
 I'm a tech enthusiast with a strong focus on **Data Engineering** and **MLOps**. I thrive on solving complex problems and love working on projects that blend **software engineering** with cutting-edge data infrastructure. My goal is to use my skills to **make an impact** and contribute to building meaningful solutions that can transform industries.
 
-- 🖥️ **Currently working on**: Building a modern data engineering portfolio
 - 🎓 **Education**: Pursuing a **Bachelor of Science in Computer Science** at JKUAT
 - 🏅 **Certified**: ALX Data Analytics
 - 💡 **I'm passionate about**: **Data Engineering**, **Artificial Intelligence**, and **Machine Learning**
