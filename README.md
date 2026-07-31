@@ -8,36 +8,9 @@ Welcome to my GitHub! I'm a passionate **Computer Science** student at **Jomo Ke
 ## 🚀 About Me
 I'm a tech enthusiast with a strong focus on **Data Engineering** and **MLOps**. I thrive on solving complex problems and love working on projects that blend **software engineering** with cutting-edge data infrastructure. My goal is to use my skills to **make an impact** and contribute to building meaningful solutions that can transform industries.
 
-- 🎓 **Education**: Pursuing a **Bachelor of Science in Computer Science** at JKUAT
+- 🎓 **Education**: **Bachelor of Science in Computer Science** at JKUAT
 - 🏅 **Certified**: ALX Data Analytics
 - 💡 **I'm passionate about**: **Data Engineering**, **Artificial Intelligence**, and **Machine Learning**
-- 🌱 **Currently learning**: Apache Kafka for real-time streaming, advanced dbt techniques, and cloud infrastructure on GCP
-
-## 🧠 My Skills
-
-### Programming Languages
-- **Python** (Data Engineering, AI/ML, Data Science)
-- **SQL** (BigQuery, SQLite, PostgreSQL)
-
-### Data Engineering
-- **Apache Spark** (Large-scale distributed data processing)
-- **Apache Airflow** (Pipeline orchestration and scheduling)
-- **dbt** (Data transformation and modeling)
-- **pandas** (Data cleaning and manipulation)
-
-### Machine Learning & AI
-- **TensorFlow & scikit-learn** (Machine Learning)
-- **MLOps** (Model deployment and monitoring)
-
-### Cloud & Databases
-- **Google Cloud Platform** (BigQuery, GCP)
-- **AWS** (S3, Lambda)
-- **SQLite & PostgreSQL** (Data storage)
-
-### Tools
-- **Jupyter** (Notebooks and exploratory analysis)
-- **Git & Docker** (Version control and containerization)
-- **WSL2 & Linux** (Development environment)
 
 ## 🔥 My Projects
 
@@ -70,15 +43,6 @@ A daily ETL pipeline showing progression from a simple scheduled script to a pro
 - 🐦 **Twitter**: @rebeccashirievo
 
 Feel free to explore my repositories, open issues, or just say hi! I'm always excited to collaborate and learn from fellow developers and professionals. 🤝
-
----
-
-**Currently working on improving my:**
-- **Data Engineering** skills, especially **Kafka** for real-time streaming pipelines
-- **dbt** advanced techniques — incremental models and macros
-- **Cloud infrastructure** on GCP
-
-**Fun Fact:** When I'm not coding, you can find me watching a good movie. 📚
 
 ---
 
