@@ -3,7 +3,7 @@
 </a>
 
 # Hi there, I'm Rebecca Shirievo 👩‍💻✨
-Welcome to my GitHub! I'm a passionate **Computer Science** student at **Jomo Kenyatta University of Agriculture and Technology**, constantly learning and growing in the world of **Data Engineering**, **AI**, and **Machine Learning**. I'm excited to explore new technologies and contribute to innovative projects!
+Welcome to my GitHub! I'm a **Computer Science** graduand at **Jomo Kenyatta University of Agriculture and Technology**, constantly learning and growing in the world of **Data Engineering**, **AI**, and **Machine Learning**. I'm excited to explore new technologies and contribute to innovative projects!
 
 ## 🚀 About Me
 I'm a tech enthusiast with a strong focus on **Data Engineering** and **MLOps**. I thrive on solving complex problems and love working on projects that blend **software engineering** with cutting-edge data infrastructure. My goal is to use my skills to **make an impact** and contribute to building meaningful solutions that can transform industries.
