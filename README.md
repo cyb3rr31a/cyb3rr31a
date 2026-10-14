@@ -2,11 +2,10 @@
 
 # Heyyy, Becca here 👩‍💻✨
 Objective: Get hella cracked at **ML** and **SWE**
+<img width="307" height="252" alt="216649450-e63af5d5-a769-4e9f-8bd1-c2b9005dc53c" src="https://github.com/user-attachments/assets/9e1c85e0-28fd-44d3-9c1e-fec6a24762c0" />
 
 ## 🚀 About Me
 My background is primarily in data but I mostly do an integration of both SWE and ML/AI in most of my projects so I guess you can call me a *jack of all trades*😹. Very willing to connect with other engineers, just hit me up on your preferred medium, I'll answer in due time, scout's honour🫡.
-
-<img width="307" height="252" alt="216649450-e63af5d5-a769-4e9f-8bd1-c2b9005dc53c" src="https://github.com/user-attachments/assets/9e1c85e0-28fd-44d3-9c1e-fec6a24762c0" />
 
 
 ## 📣 Let's Connect!
@@ -19,3 +18,5 @@ Feel free to explore my repositories, open issues, or just say hi 🤝
 ---
 
 🚀 **Thanks for visiting!** Stay tuned for new projects 😊
+<img width="1920" height="1080" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" src="https://github.com/user-attachments/assets/2db0eddd-451c-49c4-850c-4ab613c68baf" />
+
