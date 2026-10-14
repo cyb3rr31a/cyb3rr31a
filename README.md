@@ -1,33 +1,21 @@
-<a href="https://github.com/cyb3rr31a">
-    <img src="https://komarev.com/ghpvc/?username=cyb3rr31a&color=red" alt="Profile views" />
-</a>
+<img width="2000" height="400" alt="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7" src="https://github.com/user-attachments/assets/53dfdacf-0eae-4d5b-ac3a-291e3f80c32d" />
 
-# Hi there, I'm Rebecca Shirievo 👩‍💻✨
-Welcome to my GitHub! I'm a **Computer Science** graduand at **Jomo Kenyatta University of Agriculture and Technology**, constantly learning and growing in the world of **Data Engineering**, **AI**, and **Machine Learning**. I'm excited to explore new technologies and contribute to innovative projects!
+# Heyyy, Becca here 👩‍💻✨
+Objective: Get hella cracked at **ML** and **SWE**
 
 ## 🚀 About Me
-I'm a tech enthusiast with a strong focus on **Data Engineering** and **MLOps**. I thrive on solving complex problems and love working on projects that blend **software engineering** with cutting-edge data infrastructure. My goal is to use my skills to **make an impact** and contribute to building meaningful solutions that can transform industries.
+My background is primarily in data but I mostly do an integration of both SWE and ML/AI in most of my projects so I guess you can call me a *jack of all trades*😹. Very willing to connect with other engineers, just hit me up on your preferred medium, I'll answer in due time, scout's honour🫡.
 
-- 🎓 **Education**: **Bachelor of Science in Computer Science** at JKUAT
-- 🏅 **Certified**:
-     {
-      ALX *Data Analytics*,
-      ALX *Python*,
-      ALX *Machine Learning*
-  }
-- 💡 **I'm passionate about**: **Data Engineering**, **Artificial Intelligence** and **Machine Learning**
+<img width="307" height="252" alt="216649450-e63af5d5-a769-4e9f-8bd1-c2b9005dc53c" src="https://github.com/user-attachments/assets/9e1c85e0-28fd-44d3-9c1e-fec6a24762c0" />
 
-## 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyb3rr31a&theme=dark&border_radius=4.6&exclude_days=Sun%2CSat&card_width=720&card_height=221)](https://git.io/streak-stats)
 
 ## 📣 Let's Connect!
 - 📧 **Email**: rebeccashirievo@gmail.com
-- 🌐 **Website**: Coming Soon
 - 💼 **LinkedIn**: rebecca-shirievo
 - 🐦 **Twitter**: @rebeccashirievo
 
-Feel free to explore my repositories, open issues, or just say hi! I'm always excited to collaborate and learn from fellow developers and professionals. 🤝
+Feel free to explore my repositories, open issues, or just say hi 🤝
 
 ---
 
-🚀 **Thank you for visiting!** Stay tuned for new projects, ideas, and innovations. 😊
+🚀 **Thanks for visiting!** Stay tuned for new projects 😊
