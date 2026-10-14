@@ -1,6 +1,7 @@
 <img width="2000" height="400" alt="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7" src="https://github.com/user-attachments/assets/53dfdacf-0eae-4d5b-ac3a-291e3f80c32d" />
 
 # Heyyy, Becca here 👩‍💻✨
+I love anime, coding and art. In other words, anything that hurts😹.
 Objective: Get hella cracked at **ML** and **SWE**.
 
 <img width="307" height="252" alt="216649450-e63af5d5-a769-4e9f-8bd1-c2b9005dc53c" src="https://github.com/user-attachments/assets/9e1c85e0-28fd-44d3-9c1e-fec6a24762c0" />
