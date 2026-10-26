@@ -13,7 +13,7 @@ I love anime, coding, music, sci-fi and art. In other words, anything that requi
 * **Data Pipelines & Scraping:** Pandas | Polars | NumPy | Scrapy | BeautifulSoup | Apache Airflow
 * **Backend & Architecture:** FastAPI | Django | Node.js | REST | GraphQL | Celery | Microservices
 * **Databases & Storage:** PostgreSQL | Redis | MongoDB | DuckDB | Pinecone | ChromaDB
-* **Frontend & Dashboards:** React | Next.js | Tailwind CSS | Streamlit | Plotly | Leaflet
+* **Frontend & Dashboards:** React | Next.js | Tailwind CSS | Streamlit | Plotly | Leaflet | Power BI
 * **MLOps & Infrastructure:** Docker | Kubernetes | MLflow | DVC | GitHub Actions | AWS | GCP
 
   
