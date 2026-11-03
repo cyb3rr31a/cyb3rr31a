@@ -22,7 +22,6 @@ My background is primarily in data but I mostly do an integration of both SWE an
 
 
 ## 📣 You can find me on:
-- 📧 **Email**: rebeccashirievo@gmail.com
 - 💼 **LinkedIn**: rebecca-shirievo
 - 🐦 **Twitter**: @rebeccashirievo
 
